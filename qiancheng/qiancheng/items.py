@@ -38,4 +38,6 @@ class QianchengItem(Item):
     enterprise_scale=Field()
     # 行业
     enterprise_industry=Field()
+    # 关键词
+    keyword=Field()
     pass
