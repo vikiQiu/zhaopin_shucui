@@ -1,6 +1,6 @@
 # coding=utf-8
 '''
-viki - 2016.11.08
+viki - 2016.12.26
 scrapy: 1.0.3
 python: 2.7.12
 system: mac10,windows8
@@ -13,14 +13,14 @@ import time
 import datetime
 
 class QianchengSpider(scrapy.Spider):
-    name = "qiancheng"
+    name = "qiancheng2"
 
     DOWNLOAD_DELAY = 1
     COOKIES_ENABLED=False
 
     page_num=1
     date=''
-    keyword='数据挖掘'
+    keyword='数据分析'
 
     def get_yesterday(self):
         yesterday = str(datetime.date.today() - datetime.timedelta(days=2))
