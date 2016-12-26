@@ -1,0 +1,213 @@
+##### yesterday is 2016-12-25 #######
+######################  第1页(数据挖掘): http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=000000%2C00&district=000000&funtype=0000&keyword=数据挖掘&keywordtype=2&curr_page=1&lang=c&stype=1&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&lonlat=0%2C0&radius=-1&ord_field=0&list_type=0&fromType=14&dibiaoid=0&confirmdate=9 ###################
+####### begin #######
+12-26
+http://jobs.51job.com/shanghai-jaq/84555590.html?s=01&t=0
+http://jobs.51job.com/xian/84555076.html?s=01&t=0
+http://jobs.51job.com/shanghai-cnq/84552662.html?s=01&t=0
+http://jobs.51job.com/chongqing/71439886.html?s=01&t=0
+http://jobs.51job.com/shanghai/84551244.html?s=01&t=0
+http://jobs.51job.com/fuzhou-jaq/81723600.html?s=01&t=0
+http://jobs.51job.com/guangzhou/36499134.html?s=01&t=0
+http://jobs.51job.com/guangzhou-yxq/74814029.html?s=01&t=0
+http://jobs.51job.com/guangzhou-thq/84493090.html?s=01&t=0
+http://jobs.51job.com/guangzhou/75004184.html?s=01&t=0
+http://jobs.51job.com/shanghai/79784652.html?s=01&t=0
+http://jobs.51job.com/beijing-hdq/81507861.html?s=01&t=0
+http://jobs.51job.com/hangzhou/84531816.html?s=01&t=0
+http://jobs.51job.com/beijing/84532136.html?s=01&t=0
+http://jobs.51job.com/beijing/81981399.html?s=01&t=0
+http://jobs.51job.com/shanghai-cnq/83208926.html?s=01&t=0
+http://jobs.51job.com/shanghai-pdxq/77730977.html?s=01&t=0
+http://jobs.51job.com/shanghai-pdxq/75991893.html?s=01&t=0
+http://jobs.51job.com/shanghai-xhq/77405561.html?s=01&t=0
+http://jobs.51job.com/nanjing-jyq/80889415.html?s=01&t=0
+http://jobs.51job.com/shanghai/84410514.html?s=01&t=0
+http://jobs.51job.com/beijing/83059457.html?s=01&t=0
+page_num is  2
+######################  第2页(数据挖掘):http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=000000%2C00&district=000000&funtype=0000&keyword=数据挖掘&keywordtype=2&curr_page=2&lang=c&stype=1&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&lonlat=0%2C0&radius=-1&ord_field=0&list_type=0&fromType=14&dibiaoid=0&confirmdate=9  ###################
+####### begin #######
+12-26
+http://jobs.51job.com/nanjing/80461968.html?s=01&t=0
+http://jobs.51job.com/hangzhou/71405690.html?s=01&t=0
+http://jobs.51job.com/chengdu/83122832.html?s=01&t=0
+http://jobs.51job.com/shanghai/81421646.html?s=01&t=0
+http://jobs.51job.com/suzhou-gyyq/81325696.html?s=01&t=0
+http://jobs.51job.com/shenzhen-baq/83226058.html?s=01&t=0
+http://jobs.51job.com/hefei/49447374.html?s=01&t=0
+http://jobs.51job.com/hangzhou-xhq/65192820.html?s=01&t=0
+http://jobs.51job.com/wuhan-jhq/83441356.html?s=01&t=0
+http://jobs.51job.com/nanjing-jnq/66439675.html?s=01&t=0
+http://jobs.51job.com/wuxi-hsq/76468864.html?s=01&t=0
+http://jobs.51job.com/hangzhou/84382794.html?s=01&t=0
+http://jobs.51job.com/shanghai-xhq/82938955.html?s=01&t=0
+http://jobs.51job.com/hangzhou/81609396.html?s=01&t=0
+http://jobs.51job.com/tianjin/84401317.html?s=01&t=0
+http://jobs.51job.com/taiyuan/83948613.html?s=01&t=0
+http://jobs.51job.com/beijing-hdq/75548411.html?s=01&t=0
+http://jobs.51job.com/shanghai/78694928.html?s=01&t=0
+http://jobs.51job.com/guangzhou-thq/81898837.html?s=01&t=0
+http://jobs.51job.com/fuzhou-csq/83657393.html?s=01&t=0
+http://jobs.51job.com/chengdu/83040759.html?s=01&t=0
+http://jobs.51job.com/beijing-xcq/84470659.html?s=01&t=0
+page_num is  3
+######################  第3页(数据挖掘):http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=000000%2C00&district=000000&funtype=0000&keyword=数据挖掘&keywordtype=2&curr_page=3&lang=c&stype=1&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&lonlat=0%2C0&radius=-1&ord_field=0&list_type=0&fromType=14&dibiaoid=0&confirmdate=9  ###################
+####### begin #######
+12-26
+http://jobs.51job.com/chengdu-gxq/70125457.html?s=01&t=0
+http://jobs.51job.com/jinan-gxq/82043352.html?s=01&t=0
+http://jobs.51job.com/changzhou/80297577.html?s=01&t=0
+http://jobs.51job.com/changsha-kfq/71392352.html?s=01&t=0
+http://jobs.51job.com/wuhan-wcq/80462577.html?s=01&t=0
+http://jobs.51job.com/jinan/84207730.html?s=01&t=0
+http://jobs.51job.com/guangzhou/75109176.html?s=01&t=0
+http://jobs.51job.com/nanjing/69804857.html?s=01&t=0
+http://jobs.51job.com/hangzhou-bjq/74926522.html?s=01&t=0
+http://jobs.51job.com/beijing-cyq/75568582.html?s=01&t=0
+http://jobs.51job.com/beijing-cyq/79019030.html?s=01&t=0
+http://jobs.51job.com/hangzhou-gsq/68087045.html?s=01&t=0
+http://jobs.51job.com/shenzhen-nsq/78163428.html?s=01&t=0
+http://jobs.51job.com/beijing/84056650.html?s=01&t=0
+http://jobs.51job.com/wuhan-hsq/67994050.html?s=01&t=0
+http://jobs.51job.com/beijing/54424087.html?s=01&t=0
+http://jobs.51job.com/shanghai-cnq/76346753.html?s=01&t=0
+http://jobs.51job.com/beijing/74412511.html?s=01&t=0
+http://jobs.51job.com/beijing/83101480.html?s=01&t=0
+http://jobs.51job.com/shanghai-hpq/83709795.html?s=01&t=0
+http://jobs.51job.com/guangzhou/79757655.html?s=01&t=0
+http://jobs.51job.com/chengdu-gxq/83118048.html?s=01&t=0
+page_num is  4
+######################  第4页(数据挖掘):http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=000000%2C00&district=000000&funtype=0000&keyword=数据挖掘&keywordtype=2&curr_page=4&lang=c&stype=1&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&lonlat=0%2C0&radius=-1&ord_field=0&list_type=0&fromType=14&dibiaoid=0&confirmdate=9  ###################
+####### begin #######
+12-26
+http://jobs.51job.com/shanghai-xhq/76633673.html?s=01&t=0
+http://jobs.51job.com/shanghai-hpq/80130543.html?s=01&t=0
+http://jobs.51job.com/chengdu-jjq/83395034.html?s=01&t=0
+http://jobs.51job.com/guangzhou/83252460.html?s=01&t=0
+http://jobs.51job.com/shenzhen-ftq/81472656.html?s=01&t=0
+http://jobs.51job.com/chengdu-gxq/84234460.html?s=01&t=0
+http://jobs.51job.com/shanghai/83749974.html?s=01&t=0
+http://jobs.51job.com/shenzhen-baq/77020890.html?s=01&t=0
+http://jobs.51job.com/nanjing/74316621.html?s=01&t=0
+http://jobs.51job.com/changsha-ylq/78693584.html?s=01&t=0
+http://jobs.51job.com/guangzhou-thq/83127049.html?s=01&t=0
+http://jobs.51job.com/ningbo/83594039.html?s=01&t=0
+http://jobs.51job.com/jinshuiqu/81631788.html?s=01&t=0
+http://ccic.51job.com/sc/show_job_detail.php?jobid=72514810
+http://jobs.51job.com/shanghai-xhq/83911088.html?s=01&t=0
+http://jobs.51job.com/nanjing/82351784.html?s=01&t=0
+http://jobs.51job.com/hangzhou-xhq/82253277.html?s=01&t=0
+http://jobs.51job.com/chengdu/68773752.html?s=01&t=0
+http://jobs.51job.com/guangzhou/79242408.html?s=01&t=0
+http://jobs.51job.com/chengdu/74711090.html?s=01&t=0
+http://jobs.51job.com/beijing/72685611.html?s=01&t=0
+http://jobs.51job.com/tianjin-xqq/76721848.html?s=01&t=0
+page_num is  5
+######################  第5页(数据挖掘):http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=000000%2C00&district=000000&funtype=0000&keyword=数据挖掘&keywordtype=2&curr_page=5&lang=c&stype=1&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&lonlat=0%2C0&radius=-1&ord_field=0&list_type=0&fromType=14&dibiaoid=0&confirmdate=9  ###################
+####### begin #######
+12-26
+http://jobs.51job.com/shanghai/72468866.html?s=01&t=0
+http://jobs.51job.com/sichuansheng/81008402.html?s=01&t=0
+http://jobs.51job.com/wuxi/77719307.html?s=01&t=0
+http://jobs.51job.com/wuhan/70544399.html?s=01&t=0
+http://jobs.51job.com/shenzhen-nsq/79518789.html?s=01&t=0
+http://jobs.51job.com/dongguan/77709674.html?s=01&t=0
+http://jobs.51job.com/beijing/83764233.html?s=01&t=0
+http://jobs.51job.com/shenzhen-nsq/81752161.html?s=01&t=0
+http://jobs.51job.com/shenzhen/84118824.html?s=01&t=0
+http://jobs.51job.com/guangzhou/82670240.html?s=01&t=0
+http://jobs.51job.com/guangzhou-thq/82695178.html?s=01&t=0
+http://jobs.51job.com/guangzhou-yxq/83576610.html?s=01&t=0
+http://jobs.51job.com/foshan/84335978.html?s=01&t=0
+http://jobs.51job.com/changzhou/68749725.html?s=01&t=0
+http://jobs.51job.com/hangzhou/83813769.html?s=01&t=0
+http://jobs.51job.com/beijing-hdq/81508172.html?s=01&t=0
+http://jobs.51job.com/shanghai-ypq/77054880.html?s=01&t=0
+http://jobs.51job.com/hangzhou-jgq/84434567.html?s=01&t=0
+http://jobs.51job.com/shenzhen/73818131.html?s=01&t=0
+http://jobs.51job.com/chengdu/78766136.html?s=01&t=0
+http://jobs.51job.com/nanjing-xwq/79856683.html?s=01&t=0
+http://jobs.51job.com/chongqing/73082805.html?s=01&t=0
+page_num is  6
+######################  第6页(数据挖掘):http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=000000%2C00&district=000000&funtype=0000&keyword=数据挖掘&keywordtype=2&curr_page=6&lang=c&stype=1&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&lonlat=0%2C0&radius=-1&ord_field=0&list_type=0&fromType=14&dibiaoid=0&confirmdate=9  ###################
+####### begin #######
+12-26
+http://jobs.51job.com/beijing-hdq/83850465.html?s=01&t=0
+http://jobs.51job.com/shanghai-xhq/81757534.html?s=01&t=0
+http://jobs.51job.com/shenzhen-nsq/84420801.html?s=01&t=0
+http://jobs.51job.com/beijing-hdq/78550887.html?s=01&t=0
+http://jobs.51job.com/beijing-cyq/78533607.html?s=01&t=0
+http://jobs.51job.com/beijing/82775447.html?s=01&t=0
+http://jobs.51job.com/shanghai/75383892.html?s=01&t=0
+http://jobs.51job.com/hefei/79550675.html?s=01&t=0
+http://jobs.51job.com/shanghai-ypq/83813958.html?s=01&t=0
+http://jobs.51job.com/beijing-cyq/84449631.html?s=01&t=0
+http://jobs.51job.com/shanghai/67108441.html?s=01&t=0
+http://jobs.51job.com/shenzhen-nsq/84396129.html?s=01&t=0
+http://jobs.51job.com/beijing/82963170.html?s=01&t=0
+http://jobs.51job.com/shenzhen-nsq/81046741.html?s=01&t=0
+http://jobs.51job.com/guangzhou/81643115.html?s=01&t=0
+http://jobs.51job.com/xiamen/77428008.html?s=01&t=0
+http://jobs.51job.com/shanghai-pdxq/74770832.html?s=01&t=0
+http://jobs.51job.com/shanghai/79998892.html?s=01&t=0
+http://jobs.51job.com/beijing-hdq/74542993.html?s=01&t=0
+http://jobs.51job.com/xiamen/84181251.html?s=01&t=0
+http://jobs.51job.com/shanghai/74361594.html?s=01&t=0
+http://jobs.51job.com/hangzhou-bjq/77140084.html?s=01&t=0
+page_num is  7
+######################  第7页(数据挖掘):http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=000000%2C00&district=000000&funtype=0000&keyword=数据挖掘&keywordtype=2&curr_page=7&lang=c&stype=1&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&lonlat=0%2C0&radius=-1&ord_field=0&list_type=0&fromType=14&dibiaoid=0&confirmdate=9  ###################
+####### begin #######
+12-26
+http://jobs.51job.com/beijing-cyq/82474674.html?s=01&t=0
+http://jobs.51job.com/beijing-sjsq/78739308.html?s=01&t=0
+http://jobs.51job.com/shanghai-zbq/77863457.html?s=01&t=0
+http://jobs.51job.com/guangzhou/78886696.html?s=01&t=0
+http://jobs.51job.com/shenzhen/75081669.html?s=01&t=0
+http://jobs.51job.com/nanjing/81447983.html?s=01&t=0
+http://jobs.51job.com/hangzhou-xhq/75202962.html?s=01&t=0
+http://jobs.51job.com/guangzhou-thq/75782544.html?s=01&t=0
+http://jobs.51job.com/chengdu/69414944.html?s=01&t=0
+http://jobs.51job.com/chengdu-gxq/76182281.html?s=01&t=0
+http://jobs.51job.com/guangzhou/75307041.html?s=01&t=0
+http://jobs.51job.com/beijing-cyq/68788567.html?s=01&t=0
+http://jobs.51job.com/shenzhen-nsq/79764627.html?s=01&t=0
+http://jobs.51job.com/beijing-hdq/74669658.html?s=01&t=0
+http://jobs.51job.com/fuzhou/80141724.html?s=01&t=0
+http://jobs.51job.com/shanghai-hpq/76428296.html?s=01&t=0
+http://jobs.51job.com/shanghai-mhq/76008841.html?s=01&t=0
+http://jobs.51job.com/guangzhou-yxq/82608822.html?s=01&t=0
+http://jobs.51job.com/beijing-hdq/78200961.html?s=01&t=0
+http://jobs.51job.com/shanghai-cnq/77755841.html?s=01&t=0
+http://jobs.51job.com/beijing-dxq/76746948.html?s=01&t=0
+http://jobs.51job.com/shanghai/67301571.html?s=01&t=0
+page_num is  8
+######################  第8页(数据挖掘):http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=000000%2C00&district=000000&funtype=0000&keyword=数据挖掘&keywordtype=2&curr_page=8&lang=c&stype=1&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&lonlat=0%2C0&radius=-1&ord_field=0&list_type=0&fromType=14&dibiaoid=0&confirmdate=9  ###################
+####### begin #######
+12-26
+http://jobs.51job.com/shanghai-xhq/81641505.html?s=01&t=0
+http://jobs.51job.com/beijing/81313213.html?s=01&t=0
+http://jobs.51job.com/hangzhou/83047539.html?s=01&t=0
+http://jobs.51job.com/hefei/80547097.html?s=01&t=0
+http://jobs.51job.com/shanghai-xhq/69047216.html?s=01&t=0
+http://jobs.51job.com/fuzhou-tjq/82588098.html?s=01&t=0
+http://jobs.51job.com/hangzhou/77064713.html?s=01&t=0
+http://jobs.51job.com/beijing/75903715.html?s=01&t=0
+http://jobs.51job.com/hangzhou-bjq/83865824.html?s=01&t=0
+http://jobs.51job.com/hangzhou/80439479.html?s=01&t=0
+http://jobs.51job.com/beijing/77692351.html?s=01&t=0
+http://paic.51job.com/sc/show_job_detail.php?jobid=77914169
+http://jobs.51job.com/beijing/83558641.html?s=01&t=0
+http://career.h3c.com/sc/show_job_detail.php?jobid=79788137
+http://jobs.51job.com/shenzhen-lhq/80011362.html?s=01&t=0
+http://jobs.51job.com/shenzhen/78971091.html?s=01&t=0
+http://jobs.51job.com/shanghai-xhq/77368994.html?s=01&t=0
+http://jobs.51job.com/changsha-ylq/79776051.html?s=01&t=0
+http://jobs.51job.com/changsha-ylq/80000975.html?s=01&t=0
+http://jobs.51job.com/beijing-cpq/84504790.html?s=01&t=0
+http://jobs.51job.com/beijing-hdq/84493590.html?s=01&t=0
+http://jobs.51job.com/hefei/81408594.html?s=01&t=0
+page_num is  9
+######################  第9页(数据挖掘):http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=000000%2C00&district=000000&funtype=0000&keyword=数据挖掘&keywordtype=2&curr_page=9&lang=c&stype=1&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&lonlat=0%2C0&radius=-1&ord_field=0&list_type=0&fromType=14&dibiaoid=0&confirmdate=9  ###################
+####### begin #######
+12-23
+over
